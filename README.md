@@ -6,7 +6,7 @@
 
 * The code is written in Python.
 
-* Presentation materials and codes are in the project folder. However, the voice file recorded for the presentation and the voice file used for analysis in the project will not be released.
+* Presentation materials and codes are in the __project folder__. However, the voice file recorded for the presentation and the voice file used for analysis in the project will not be released.
 
 * [Studied materials](https://drive.google.com/drive/folders/11lGXuAztFC1xyBDiJDGah1NczCsUxCoK) : Google Drive ( private )
 
