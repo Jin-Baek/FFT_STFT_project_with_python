@@ -2,7 +2,7 @@
 
 ### Introduction
 
-* It's not a logical code of STFT, it's just a project that we've used STFT to filter voice analysis.
+* It's not a logical code of STFT, it's just a project that I've used STFT to filter voice analysis.
 
 * The code is written in Python.
 
